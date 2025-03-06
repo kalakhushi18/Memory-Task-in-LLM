@@ -56,4 +56,5 @@ Install: pip install torch transformers datasets numpy pandas matplotlib
 2. Explore training fine-tuned LLMs for better memory retention
 3. Investigate prompt engineering techniques to enhance LLM recall
 
-## Author: Khushi Kala
+## Author: 
+Khushi Kala
